@@ -1,0 +1,14 @@
+{
+    "emmet.includeLanguages": {
+        "django-html": "html",
+        "razor": "html"
+    },
+    "git.ignoreLimitWarning": true,
+    "editor.stickyScroll.enabled": false,
+    "editor.tabCompletion": "on",
+    "html-css-class-completion.enableEmmetSupport": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.useInlineCompletions": true,
+    "emmet.showExpandedAbbreviation": "inMarkupAndStylesheetFilesOnly"
+}
